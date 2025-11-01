@@ -26,6 +26,9 @@
 ---
 
 ## 📂 Featured Projects
+- 🧠 **[StudySync](#)** → AI-powered study assistant using Retrieval-Augmented Generation (RAG) and local LLM inference  
+  Built with **FastAPI**, **LangChain**, **Chroma**, **HuggingFace**, and **Ollama** to summarize and answer questions from uploaded course materials.  
+  Containerized with **Docker** for reproducible, offline deployment.  
 - 🚢 **[Titanic Survival Prediction](#)** → Classification with Logistic Regression & Random Forest  
 - 🌍 **[Country Clustering](#)** → KMeans clustering of socio-economic data  
 - 🚗 **[Car Price Prediction](#)** → Regression with feature engineering (brand extraction, luxury flag) → **Best R² = 0.91 (Random Forest)**  
