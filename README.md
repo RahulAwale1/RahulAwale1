@@ -1,46 +1,80 @@
 <h1 align="center">Hi 👋, I'm Rahul Awale</h1>
-<h3 align="center">🚀 AI & Data Science Student | Passionate About Machine Learning</h3>
+<h3 align="center">🚀 Machine Learning Engineer | AI Systems Builder</h3>
 
 ---
 
-## 🌟 About Me
-- 🎓 Postgraduate Student in **AI & Data Science** at Loyalist College, Canada  
-- 💡 Interested in **Machine Learning, AI Agents, and Predictive Analytics**  
-- 📌 Looking for **Machine Learning / Data Science Co-op opportunities**  
+## 🧠 About Me
+- 🎓 AI & Data Science Postgraduate @ Loyalist College (Canada)  
+- ⚡ Building production-ready ML & GenAI systems  
+- 🏗️ Experienced in end-to-end AI pipelines (RAG, APIs, async processing)  
+- 🎯 Actively seeking Machine Learning / AI Co-op opportunities (2026)  
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Seaborn-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+## 🚀 What I Do
+- 🤖 Build AI-powered applications (RAG, LLMs, NLP)  
+- ⚙️ Design scalable backend systems (FastAPI, Docker, APIs)  
+- 📊 Work on ML models (Regression, Classification, Time Series)   
 
 ---
 
-## 📂 Featured Projects
-- 🧠 **[StudySync](#)** → AI-powered study assistant using Retrieval-Augmented Generation (RAG) and local LLM inference  
-  Built with **FastAPI**, **LangChain**, **Chroma**, **HuggingFace**, and **Ollama** to summarize and answer questions from uploaded course materials.  
-  Containerized with **Docker** for reproducible, offline deployment.  
-- 🚢 **[Titanic Survival Prediction](#)** → Classification with Logistic Regression & Random Forest  
-- 🌍 **[Country Clustering](#)** → KMeans clustering of socio-economic data  
-- 🚗 **[Car Price Prediction](#)** → Regression with feature engineering (brand extraction, luxury flag) → **Best R² = 0.91 (Random Forest)**  
+## 🏆 Featured Projects
+
+### 🏛️ CivicAI — AI By-Law Assistant (Flagship Project)
+- Built a Retrieval-Augmented Generation (RAG) system using embeddings + vector search  
+- Designed async document processing pipeline using Redis + Celery  
+- Implemented pgvector (PostgreSQL) for semantic search  
+- Built admin dashboard for managing documents, jobs, and cities  
+- Deployed using Docker + AWS EC2 + Nginx + Cloudflare + Vercel  
 
 ---
 
-## 📈 Current Focus  
-- Strengthening ML portfolio with **Regression, NLP, and Time Series** projects  
-- Exploring **AI agents & MLOps practices**
-- Exploring **Docker & kubernetes** 
-- Preparing for **Machine Learning Co-op** opportunities in Canada  
+### 📚 StudySync — AI Study Assistant
+- RAG-based system for summarizing and querying study materials  
+- Built with FastAPI, LangChain, Chroma, HuggingFace, Ollama  
+- Fully containerized for local LLM deployment  
 
+---
+
+### 🚗 Car Price Prediction (ML Pipeline + API)
+- Built regression models with feature engineering  
+- Achieved R² ≈ 0.91 (Random Forest)  
+- Deployed as FastAPI microservice with Docker  
+
+---
+
+### 📈 Stock Price Forecasting (ARIMA vs LSTM)
+- Compared statistical vs deep learning approaches  
+- Achieved ~3x improvement in RMSE using LSTM  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 AI / ML
+scikit-learn • TensorFlow • PyTorch • Pandas • NumPy • EDA • Feature Engineering  
+
+### 🤖 GenAI / NLP
+RAG • LangChain • OpenAI • HuggingFace • ChromaDB • pgvector  
+
+### ⚙️ Backend & Systems
+FastAPI • REST APIs • Redis • Celery • PostgreSQL  
+
+### 🌐 Frontend
+Flutter • Next.js • React • Tailwind CSS  
+
+### ☁️ DevOps & Deployment
+Docker • AWS EC2 • Nginx • Cloudflare • GitHub Actions  
+
+---
+
+## 📈 Current Focus
+- Building production-grade AI systems (RAG + Agents)  
+- Learning MLOps & scalable ML deployment  
+- Exploring AI agents & automation workflows  
+- Preparing for ML / AI roles in Canada  
+
+---
 
 ## 🤝 Connect With Me
 <p align="center">
@@ -57,3 +91,4 @@
 
 ---
 
+⭐ Turning ideas into scalable AI systems
