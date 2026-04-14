@@ -29,10 +29,12 @@
 
 ---
 
-### 📚 StudySync — AI Study Assistant
-- RAG-based system for summarizing and querying study materials  
-- Built with FastAPI, LangChain, Chroma, HuggingFace, Ollama  
-- Fully containerized for local LLM deployment  
+### 🏙️ Belleville By-Law Bot — RAG Chatbot
+- Built an end-to-end RAG system using OCR-extracted municipal by-law PDFs  
+- Used MiniLM embeddings + FAISS for efficient semantic retrieval  
+- Integrated local LLMs (Llama3 via Ollama) for offline inference  
+- Delivered structured answers with page-level citations  
+- Built interactive chat interfaces using Streamlit and Gradio   
 
 ---
 
@@ -58,7 +60,7 @@ scikit-learn • TensorFlow • PyTorch • Pandas • NumPy • EDA • Feature
 RAG • LangChain • OpenAI • HuggingFace • ChromaDB • pgvector  
 
 ### ⚙️ Backend & Systems
-FastAPI • REST APIs • Redis • Celery • PostgreSQL  
+FastAPI • REST APIs • PostgreSQL  
 
 ### 🌐 Frontend
 Flutter • Next.js • React • Tailwind CSS  
