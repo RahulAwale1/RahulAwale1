@@ -1,69 +1,79 @@
 <h1 align="center">Hi 👋, I'm Rahul Awale</h1>
-<h3 align="center">🚀 Machine Learning Engineer | AI Systems Builder</h3>
+<h3 align="center">🚀 Applied AI / Machine Learning Engineer | Building Real-World AI Systems</h3>
 
 ---
 
 ## 🧠 About Me
 - 🎓 AI & Data Science Postgraduate @ Loyalist College (Canada)  
-- ⚡ Building production-ready ML & GenAI systems  
-- 🏗️ Experienced in end-to-end AI pipelines (RAG, APIs, async processing)  
-- 🎯 Actively seeking Machine Learning / AI Co-op opportunities (2026)  
+- ⚡ Building production-ready AI systems with real-world applications  
+- 🏗️ Focused on end-to-end pipelines: RAG, APIs, async workflows, and deployment  
+- 🎯 Actively seeking **Machine Learning / AI Co-op roles (2026)**  
 
 ---
 
-## 🚀 What I Do
-- 🤖 Build AI-powered applications (RAG, LLMs, NLP)  
-- ⚙️ Design scalable backend systems (FastAPI, Docker, APIs)  
-- 📊 Work on ML models (Regression, Classification, Time Series)   
+## 🚀 What I Build
+- 🤖 AI-powered applications using **RAG, LLMs, and NLP workflows**  
+- ⚙️ Scalable backend systems with **FastAPI, APIs, and async processing**  
+- 📊 Machine learning pipelines for **regression, classification, and time-series forecasting**  
+- 🔗 Integrated systems combining **AI + APIs + real-world data workflows**  
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🏛️ CivicAI — AI By-Law Assistant (Flagship Project)
-- Built a Retrieval-Augmented Generation (RAG) system using embeddings + vector search  
-- Designed async document processing pipeline using Redis + Celery  
-- Implemented pgvector (PostgreSQL) for semantic search  
-- Built admin dashboard for managing documents, jobs, and cities  
-- Deployed using Docker + AWS EC2 + Nginx + Cloudflare + Vercel  
+### 🏛️ CivicAI — AI By-Law Assistant *(Flagship)*
+A full-stack AI system for municipal document intelligence  
+- Built a **RAG pipeline** with embeddings + semantic search (pgvector)  
+- Designed **async document processing** using Redis + Celery  
+- Implemented **admin dashboard** for document & workflow management  
+- Deployed with **Docker, AWS EC2, Nginx, Cloudflare, and Vercel**  
+
+---
+
+### 📬 InboxPilot AI — AI Email Assistant *(Featured)*
+AI-powered system for automating job search workflows  
+- Integrated **Gmail + Google Calendar APIs via OAuth**  
+- Built AI pipeline for **email classification & structured data extraction**  
+- Implemented **job lifecycle tracking + interview automation**  
+- Generated **AI-powered career digest using OpenAI**  
+- Deployed full-stack system with **Next.js, FastAPI, PostgreSQL (Render + Vercel)**  
 
 ---
 
 ### 🏙️ Belleville By-Law Bot — RAG Chatbot
-- Built an end-to-end RAG system using OCR-extracted municipal by-law PDFs  
-- Used MiniLM embeddings + FAISS for efficient semantic retrieval  
-- Integrated local LLMs (Llama3 via Ollama) for offline inference  
-- Delivered structured answers with page-level citations  
-- Built interactive chat interfaces using Streamlit and Gradio   
+- Built end-to-end RAG system using **OCR + embeddings + FAISS**  
+- Integrated **local LLMs (Llama3 via Ollama)** for offline inference  
+- Delivered **citation-grounded responses with page-level references**  
+- Built chat interfaces using **Streamlit & Gradio**  
 
 ---
 
-### 🚗 Car Price Prediction (ML Pipeline + API)
+### 🚗 Car Price Prediction — ML Pipeline + API
 - Built regression models with feature engineering  
-- Achieved R² ≈ 0.91 (Random Forest)  
-- Deployed as FastAPI microservice with Docker  
+- Achieved **R² ≈ 0.91 (Random Forest)**  
+- Deployed as **FastAPI microservice (Dockerized)**  
 
 ---
 
-### 📈 Stock Price Forecasting (ARIMA vs LSTM)
+### 📈 Stock Price Forecasting — ARIMA vs LSTM
 - Compared statistical vs deep learning approaches  
-- Achieved ~3x improvement in RMSE using LSTM  
+- Achieved **~3× improvement in RMSE using LSTM**  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🧠 AI / ML
-scikit-learn • TensorFlow • PyTorch • Pandas • NumPy • EDA • Feature Engineering  
+scikit-learn • TensorFlow • PyTorch • Pandas • NumPy • Feature Engineering • Model Evaluation  
 
 ### 🤖 GenAI / NLP
 RAG • LangChain • OpenAI • HuggingFace • ChromaDB • pgvector  
 
 ### ⚙️ Backend & Systems
-FastAPI • REST APIs • PostgreSQL  
+FastAPI • REST APIs • PostgreSQL • Async Workflows  
 
 ### 🌐 Frontend
-Flutter • Next.js • React • Tailwind CSS  
+Next.js • React • Tailwind CSS • Flutter  
 
 ### ☁️ DevOps & Deployment
 Docker • AWS EC2 • Nginx • Cloudflare • GitHub Actions  
@@ -71,10 +81,10 @@ Docker • AWS EC2 • Nginx • Cloudflare • GitHub Actions
 ---
 
 ## 📈 Current Focus
-- Building production-grade AI systems (RAG + Agents)  
-- Learning MLOps & scalable ML deployment  
-- Exploring AI agents & automation workflows  
-- Preparing for ML / AI roles in Canada  
+- Building **production-grade AI systems (RAG + workflow automation)**  
+- Exploring **AI agents & real-world automation use cases**  
+- Learning **MLOps & scalable ML deployment**  
+- Preparing for **ML / AI roles in Canada**  
 
 ---
 
@@ -93,4 +103,4 @@ Docker • AWS EC2 • Nginx • Cloudflare • GitHub Actions
 
 ---
 
-⭐ Turning ideas into scalable AI systems
+⭐ Turning ideas into scalable, real-world AI systems
